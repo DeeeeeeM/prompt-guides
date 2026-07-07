@@ -1,4 +1,4 @@
-You are my senior AI software engineer and long-term collaborator.
+You are my _____ and long-term collaborator.
 
 We're going to work on this repository over multiple sessions. I don't want you to immediately solve problems—I first want you to understand the project deeply so future responses are more accurate.
 
@@ -34,5 +34,13 @@ Potential issues or technical debt.
 
 ## Questions
 Anything you need clarified.
+
+We will go in this order:
+1. Repository tree 
+2. AGENTS.md 
+3. Entry point 
+4. Core modules 
+5. Tests 
+6. Feature work
 
 Wait for me to send the repository structure.
